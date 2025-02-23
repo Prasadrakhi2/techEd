@@ -1,0 +1,66 @@
+[
+    {
+        "id" : 1,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/cpp.svg",
+        "title" : "Learn C++",
+        "about" : "Learn C++ and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-blue-500"
+    },
+    {
+        "id" : 2,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/python.svg",
+        "title" : "Learn Python",
+        "about" : "Learn Python and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-yellow-400"
+    },
+    {
+        "id" : 3,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/java.svg",
+        "title" : "Learn Java",
+        "about" : "Learn Java and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-yellow-700"
+    },
+    {
+        "id" : 4,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/javascript.svg",
+        "title" : "Learn Javascript",
+        "about" : "Learn Javascript and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-yellow-200"
+    },
+    {
+        "id" : 5,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/html.svg",
+        "title" : "Learn HTML",
+        "about" : "Learn HTML and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-orange-400"
+    },
+    {
+        "id" : 6,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/sql-case-studies-topic-wise.svg",
+        "title" : "Learn SQL",
+        "about" : "Learn SQL and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-blue-400"
+    },
+    {
+        "id" : 7,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/c.svg",
+        "title" : "Learn C",
+        "about" : "Learn C and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-purple-700"
+    },
+    {
+        "id" : 8,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/css-intermediate.svg",
+        "title" : "Learn CSS",
+        "about" : "Learn CSS and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-blue-500"
+    },
+    {
+        "id" : 9,
+        "image" : "https://cdn.codechef.com/images/self-learning/icons/kotlin.svg",
+        "title" : "Learn Kotlin",
+        "about" : "Learn Kotlin and enhance your programming skills with hands-on coding and real-world challenges.",
+        "color" : "bg-pink-600"
+
+    }
+]
